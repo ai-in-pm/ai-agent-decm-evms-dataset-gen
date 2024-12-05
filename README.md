@@ -1,4 +1,3 @@
-An AI Agent DECM EVMS Dataset Generator
 # DCMA EVMS Dataset Generator
 
 An AI-powered tool for generating realistic Earned Value Management System (EVMS) datasets compliant with Defense Contract Management Agency (DCMA) guidelines.
